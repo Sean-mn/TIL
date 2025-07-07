@@ -10,7 +10,7 @@
 
 ## 3-Way Handshake의 동작 과정
 
-![tcp 동작](Image/3-way_handshake_conn.png)
+![tcp 동작](Image/3-way_handshake_conn.jpg)
 
 ### 1. SYN (Synchronize)
 -클라이언트에서 서버에게 연결 요청(SYN)을 보낸다.
