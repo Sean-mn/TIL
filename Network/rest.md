@@ -72,7 +72,5 @@ Good Example : http://example.com/player/1
 # RESTful API란?
 
 **RESTful API**란 REST 아키텍처 스타일을 잘 준수하여 설계된 API를 말한다. <br>
-
 단순히 REST API를 만든다고 해서 모두 RESTful하다고 할 수는 없다. <br>
-
 URI 설계, HTTP Method 사용, 상태 표현 방식 등 REST의 원칙을 일관성 있게 따르는 것이 중요하다.
